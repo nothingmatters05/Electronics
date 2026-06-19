@@ -7,7 +7,7 @@
 	(title_block
 		(title "Precharge Circuit")
 		(date "2026-05-11")
-		(rev "5.0")
+		(rev "5.1")
 		(company "Formula Barton Racing")
 		(comment 1 "evanscesil@gmail.com")
 	)
@@ -3359,7 +3359,7 @@
 	)
 	(rectangle
 		(start 276.86 87.63)
-		(end 346.964 126.238)
+		(end 344.17 126.238)
 		(stroke
 			(width 0)
 			(type default)
@@ -7681,7 +7681,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_Elec_4x5.4"
 			(at 318.4652 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -13095,7 +13095,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 309.88 110.998 90)
 			(hide yes)
 			(show_name no)
